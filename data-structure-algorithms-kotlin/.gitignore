@@ -1,0 +1,17 @@
+/.settings/
+/.apt_generated/
+/.apt_generated_tests/
+/.idea/
+/.vscode/
+target
+.project
+.springBeans
+.classpath
+.factorypath
+/build/
+logs
+bin
+dockerfile
+/debug.log
+/cdk.out/
+app-reactive.travel.iml
